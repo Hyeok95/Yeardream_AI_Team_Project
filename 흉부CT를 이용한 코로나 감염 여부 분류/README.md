@@ -27,10 +27,10 @@ public:private 데이터 비율은 약 3:7이며, 대회 중에는 public 스코
 
 ## **4. 참여인원 및 역할**
     - 참여인원 : 4명
-    - **역할 (팀원)**
+    - 역할 (팀원)
         1. 기본 Baseline 코드를 가지고 모델 별로 성능을 확인!
             - CNN, DCNN, AlexNet, VGG, ResNet, EfficientNet 사용함.
-            - 이 중에서 VGG모델이 성능이 좋아서 **VGG모델**을 사용하였음.
+            - 이 중에서 VGG모델이 성능이 좋아서 VGG모델을 사용하였음.
         2. 좋은 성능을 가진 모델을 찾아서 baseline 코드를 수정하여 팀원들이 쓸 수 있도록 재구성함.
         3. 팀원이 진행한 Data Augumentation 코드를 받아서 적용 시킨 후 다시 데이터를 증식한 단계에서 모델 별로 성능을 확인.
         
@@ -50,17 +50,16 @@ public:private 데이터 비율은 약 3:7이며, 대회 중에는 public 스코
     
     - hard voting, soft voting...
     
-    -> **1번과 3번 순서를 바꿔서도 진행해봄**
-    
-- 
-- **6. 사용 스택 및 협업 도구**
+    -> 1번과 3번 순서를 바꿔서도 진행해봄
+
+## **6. 사용 스택 및 협업 도구**
     - **개발 환경**
         - JupyterLab(Ubuntu), Google Colab
     - **기술 및 라이브러리**
         - python, albumentations, numpy, pandas, cv2, sklearn, dataloader, torch, transforms
     - **협업 도구** : Notion, Zoom, Discord
     
-- **7. 프로젝트 내용 요약**
+## **7. 프로젝트 내용 요약**
     1. 주어진 데이터를 가져와 dataloader 설정 후 Train과 Valid를 9:1로 나눔.
     2. Seed값과 파라미터 값 설정
     3. Albumentation 모듈을 이용하여 Data Augumentation을 진행함.
