@@ -53,12 +53,12 @@ public:private 데이터 비율은 약 3:7이며, 대회 중에는 public 스코
     -> 1번과 3번 순서를 바꿔서도 진행해봄
 
 ## **6. 사용 스택 및 협업 도구**
-**- 개발 환경**
-        - JupyterLab(Ubuntu), Google Colab
-**- 기술 및 라이브러리**
-        - python, albumentations, numpy, pandas, cv2, sklearn, dataloader, torch, transforms
-**- 협업 도구**
-        - Notion, Zoom, Discord
+### **- 개발 환경**
+* JupyterLab(Ubuntu), Google Colab
+### **- 기술 및 라이브러리**
+* python, albumentations, numpy, pandas, cv2, sklearn, dataloader, torch, transforms
+### **- 협업 도구**
+* Notion, Zoom, Discord
     
 ## **7. 프로젝트 내용 요약**
     1. 주어진 데이터를 가져와 dataloader 설정 후 Train과 Valid를 9:1로 나눔.
