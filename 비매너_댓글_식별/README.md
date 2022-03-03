@@ -50,9 +50,9 @@
   * 단어의 길이를 조사하여 bias, hate 분포 확인하기
   * 토큰 수로 쪼개서 bias, hate 분포 확인하기
   * 1글자, 2글자, 3글자인 단어들을 조사하여 빈도 수 확인하기
-  * 결론
+  * 결론 <br>
   → bias에서 others와 gender 분포가 적어 학습의 불리하다고 판단(Data Augumentation을 통해 데이터를 늘려야겠다고 판단) <br>
-  → 글자별로 단어를 나타낼 때 각 단어가 hate, bias에 잘 분류 되어있는것을 확인함. <br>
+  → 글자별로 단어를 나타낼 때 각 단어가 hate, bias에 잘 분류 되어있는것을 확인함. 
 3. 모델 적용하기
     * TF/IDF를 이용한 머신러닝 모델 적용
     * Kcelectra, KcBert, Koelectra, KoRoberta 적용
