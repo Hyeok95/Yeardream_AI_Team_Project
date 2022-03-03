@@ -15,7 +15,7 @@
 
 #### [2. 교통 물류 통행량 시계열 예측](https://github.com/Hyeok95/Yeardream_AI_Team_Project/tree/main/%EA%B5%90%ED%86%B5%20%EB%AC%BC%EB%A5%98%20%ED%86%B5%ED%96%89%EB%9F%89%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%98%88%EC%B8%A1)
 
-#### 3. 비매너 댓글 식별
+#### [3. 비매너 댓글 식별](https://github.com/Hyeok95/Yeardream_AI_Team_Project/tree/main/%EB%B9%84%EB%A7%A4%EB%84%88_%EB%8C%93%EA%B8%80_%EC%8B%9D%EB%B3%84)
 
 
 ### 주최
